@@ -1,1 +1,1 @@
-# Retail-Store-Sales-Forecast-and-Accuracy-Analysis
+# Retail-store-sales-forecast-with-linear-regression
